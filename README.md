@@ -1,0 +1,2 @@
+# Cycnus-Register
+kapanırsa
